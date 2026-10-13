@@ -1,0 +1,22 @@
+LIBRARY mydll
+EXPORTS
+    Func01       @1
+    Func02       @2
+    Func03       @3
+    Func04       @4
+    Func05       @5
+    Func06       @6
+    Func07       @7
+    Func08       @8
+    Func09       @9
+    Func10       @10
+    Func11       @11
+    Func12       @12
+    Func13_Calc  @13
+    Func14       @14
+    Func15       @15
+    Func16       @16
+    Func17       @17
+    Func18       @18
+    Func19       @19
+    Func20       @20
